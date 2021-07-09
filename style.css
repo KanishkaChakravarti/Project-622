@@ -1,0 +1,37 @@
+body{
+    text-align:center;
+    background-image: linear-gradient(pink,lavender,skyblue);
+        
+}
+#one,#two,#third,#fourth,#fifth,#sixth{
+    height:300px;
+    width:300px;
+}
+.first{
+    width:700px;
+}
+#myCarousel img{
+    width:50%;
+    margin-top: 35px;
+    height:30%;
+
+}
+.carousel-inner{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+}
+#mycarousel {
+    background-color: red;
+}
+#mycarousel img{
+    height:300px;
+    margin-top:25px;
+
+}
+.carousel-inner {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color:white;
+    font-size:20px;
+}
